@@ -1,0 +1,13 @@
+{
+  "autoload": {
+    "psr-4":{
+      "ishop\\": "vendor/ishop/core",
+      "app\\": "app"
+    }
+  },
+  "require": {
+    "gabordemooij/redbean": "^5.2",
+    "vlucas/valitron": "^1.4",
+    "swiftmailer/swiftmailer": "^5.4"
+  }
+}
