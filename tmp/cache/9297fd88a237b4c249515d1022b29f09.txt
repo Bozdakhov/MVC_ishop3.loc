@@ -1,0 +1,65 @@
+a:2:{s:4:"data";s:2012:"  <!--nastroek shablon vijeta-->
+<li>
+    <a href="category/men">Men</a>
+            <ul>
+              <!--nastroek shablon vijeta-->
+<li>
+    <a href="category/elektronnye">Электронные</a>
+            <ul>
+              <!--nastroek shablon vijeta-->
+<li>
+    <a href="category/casio">Casio</a>
+    </li>  <!--nastroek shablon vijeta-->
+<li>
+    <a href="category/citizen">Citizen</a>
+    </li>        </ul>
+    </li>  <!--nastroek shablon vijeta-->
+<li>
+    <a href="category/mehanicheskie">Механические</a>
+            <ul>
+              <!--nastroek shablon vijeta-->
+<li>
+    <a href="category/royal-london">Royal London</a>
+    </li>  <!--nastroek shablon vijeta-->
+<li>
+    <a href="category/seiko">Seiko</a>
+    </li>  <!--nastroek shablon vijeta-->
+<li>
+    <a href="category/epos">Epos</a>
+    </li>        </ul>
+    </li>        </ul>
+    </li>  <!--nastroek shablon vijeta-->
+<li>
+    <a href="category/women">Women</a>
+            <ul>
+              <!--nastroek shablon vijeta-->
+<li>
+    <a href="category/elektronnye-11">Электронные</a>
+            <ul>
+              <!--nastroek shablon vijeta-->
+<li>
+    <a href="category/adriatica">Adriatica</a>
+    </li>        </ul>
+    </li>  <!--nastroek shablon vijeta-->
+<li>
+    <a href="category/mehanicheskie-12">Механические</a>
+            <ul>
+              <!--nastroek shablon vijeta-->
+<li>
+    <a href="category/anne-klein">Anne Klein</a>
+    </li>        </ul>
+    </li>        </ul>
+    </li>  <!--nastroek shablon vijeta-->
+<li>
+    <a href="category/kids-20">Kids</a>
+            <ul>
+              <!--nastroek shablon vijeta-->
+<li>
+    <a href="category/testovaya-kategoiya-21">Тестовая категоия</a>
+            <ul>
+              <!--nastroek shablon vijeta-->
+<li>
+    <a href="category/testovaya-kategoiya-2">Тестовая категоия 2</a>
+    </li>        </ul>
+    </li>        </ul>
+    </li>";s:8:"end_time";i:1682769183;}
